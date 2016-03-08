@@ -1,0 +1,2 @@
+# deneme
+ilk gitub repositorysi
