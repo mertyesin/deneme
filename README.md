@@ -1,2 +1,2 @@
-# deneme
-ilk gitub repositorysi
+# Mustafa Mert Yesin
+First github Repository
